@@ -1,0 +1,14 @@
+{
+  "name": "boofer.bot-nextgen",
+  "version": "1.0.0",
+  "description": "Remake of boofer without pumpkin",
+  "scripts": {
+    "start": "node ."
+  },
+  "main": "bot.js",
+  "author": "Docmatson",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.0"
+  }
+}
