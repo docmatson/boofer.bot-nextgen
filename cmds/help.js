@@ -12,7 +12,7 @@ module.exports.run = async (client, msg, args) => {
 			}
 			
 			var nameList = "";
-			let helpembed = new Discord.RichEmbed()
+			let helpembed = new Discord.MessageEmbed()
 			.setColor("RANDOM")
 			.setTitle("Commands:")
 
